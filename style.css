@@ -171,7 +171,7 @@ body {
   animation: roll .4s 2 linear;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1300px) {
 	.main{
 		width: 90%;
 		height: auto;
