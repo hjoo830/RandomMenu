@@ -170,3 +170,10 @@ body {
 .item.selected {
   animation: roll .4s 2 linear;
 }
+
+@media (max-width: 576px) {
+	.main{
+		width: 80%;
+		height: auto;
+	}
+}
